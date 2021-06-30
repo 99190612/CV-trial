@@ -1,0 +1,18 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: burlywood;
+    border-width: 5px;
+    width: 40%;
+}
+h1{
+    color: darkturquoise;
+}
+
+h3{
+    color: darkturquoise;
+}
